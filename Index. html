@@ -11,8 +11,10 @@
 </head>
 <body>
   <h1>Menu Ayam Goreng Mas Bejo</h1>
-  <img src="" alt="Menu 1">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/foto2.jpg" alt="Menu 2">
-  <!-- Tambahkan lebih banyak gambar jika perlu -->
+  <img src="https://github.com/AyamGorengMasBejo/Kumpulan-Menu-Mas-Bejo/blob/main/Menu.png" alt="Menu 1">
+  <img src="https://github.com/AyamGorengMasBejo/Kumpulan-Menu-Mas-Bejo/blob/main/Penyet.png" alt="Menu 2">
+  <img src="https://github.com/AyamGorengMasBejo/Kumpulan-Menu-Mas-Bejo/blob/main/Nasi%20Goreng.png" alt="Menu 3">
+  <img src="https://github.com/AyamGorengMasBejo/Kumpulan-Menu-Mas-Bejo/blob/main/Xtra.png" alt="Menu 4">
+  <img src="https://github.com/AyamGorengMasBejo/Kumpulan-Menu-Mas-Bejo/blob/main/Snack.png alt="Menu 5">
 </body>
 </html>
